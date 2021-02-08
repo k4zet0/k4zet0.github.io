@@ -48,7 +48,7 @@ Typography
 /* * Addresses font sizes and margins set differently in IE 6/7.
 * Addresses font sizes within `section` and `article` in Firefox 4+, Safari 5, * and Chrome. */
  
-h1 { font-size: 2em; margin: 0.67em 0; color: #9e9e9e; backdrop-filter: blur(8px);
+h1 { font-size: 2em; margin: 0.67em 0; color: #9e9e9e;
 text-shadow    : 
        2px  2px 3px rgba(255, 255, 255, 0.83),
       -2px  2px 3px rgba(255, 255, 255, 0.83),
@@ -73,7 +73,7 @@ dfn { font-style: italic; }
 /* * Addresses styling not present in IE 6/7/8/9. */
 mark { background: #ff0; color: #000; }
 /* こまけぇ文字* Addresses margins set differently in IE 6/7. */
-p, pre { margin: 1em 0; color: #9e9e9e; backdrop-filter: blur(3px);
+p, pre { margin: 1em 0; color: #9e9e9e;
 text-shadow    : 
        1px  1px 3px rgba(255, 255, 255, 0.83),
       -1px  1px 3px rgba(255, 255, 255, 0.83),
